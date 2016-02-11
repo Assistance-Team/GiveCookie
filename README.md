@@ -1,2 +1,2 @@
 # GiveCookie
-[English] Give Items when the player is on OrangeWool and YellowWool block.
+Gives you an item when you're stepping on orange-wool.
